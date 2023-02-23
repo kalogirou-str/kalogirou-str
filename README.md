@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalogirou-str
-- Undergraduated student at University of Piraeus, Computer Science
+- Undergraduated student at University of Piraeus, Department of Informatics.
 - stratos.kalogirou@gmail.com
 
 <!---
